@@ -24,8 +24,8 @@
 ## What we do
 
 We are a creative technology studio. We design and build the software behind live
-experiences — stage and event visuals, interactive installations, kiosks and
-branded mini-games — and we take them from prototype to the show floor.
+experiences, stage and event visuals, interactive installations, kiosks and
+branded mini-games and we take them from prototype to the show floor.
 
 ## What we build
 
@@ -38,7 +38,7 @@ branded mini-games — and we take them from prototype to the show floor.
 
 ## Toolchain
 
-`Unreal Engine` · `disguise` · `TouchDesigner` · `Notch` · `Cocos Creator` ·
+`Unreal Engine` · `Unity` · `disguise` · `TouchDesigner` · `Notch` · `Cocos Creator` ·
 `TypeScript` · `Next.js` · `C#` / `C++`
 
 ## Repositories
