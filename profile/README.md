@@ -15,6 +15,8 @@
   <a href="https://sensedepartment.com">sensedepartment.com</a>
   ·
   <a href="mailto:info@sensedepartment.com">info@sensedepartment.com</a>
+    ·
+   <a href="https://minigames-preview.vercel.app/">Minigames Preview</a>
 </p>
 
 ---
